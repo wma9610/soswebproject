@@ -1,0 +1,10 @@
+/* ********************* Mini-Bar ******************* */
+#mini-bar{
+	width: 100%;
+	height: 35px;
+	background: #3db4d9;
+}
+#mini-bar-items{
+	font-weight: bold;
+	line-height: 35px;
+}
